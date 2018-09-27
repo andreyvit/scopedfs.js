@@ -20,11 +20,11 @@
   "author": "Andrey Tarantsov <andrey@tarantsov.com>",
   "license": "MIT",
   "dependencies": {
-    "temp": "~0.4.0",
-    "rimraf": "~2.0.2",
-    "mkdirp": "~0.3.4"
+    "temp": "~0.8.3",
+    "rimraf": "~2.6.2",
+    "mkdirp": "~0.5.1"
   },
   "devDependencies": {
-    "mocha": "~1.6.0"
+    "mocha": "~5.2.0"
   }
 }
