@@ -1,5 +1,7 @@
 # Scoped FS
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/andreyvit/scopedfs.js.svg)](https://greenkeeper.io/)
+
 A convenient API to build and access file system subtrees (particularly in tests); provides a version of every ‘fs’ module function, scoped to the given root or, optionally, to a new temporary directory; also adds a bunch of convenience methods.
 
 Synopsis 1 — can be used as a drop-in ‘fs’ replacement:
